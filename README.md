@@ -12,6 +12,8 @@ This project focuses on segmenting landcover using drone imagery of Butwal Ward 
 - **Testing**: Model testing and evaluation are performed using `newtest4.py`.
 
 ---
+![inference image](inference.png)
+
 
 ## Getting Started
 
